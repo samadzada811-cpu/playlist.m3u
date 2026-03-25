@@ -1,3 +1,4 @@
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/AzTV_%282019%29.png", AzTv
 http://str.yodacdn.net/azertv/index.m3u8
 
@@ -9,7 +10,7 @@ https://str.yodacdn.net/space/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaijan
 http://str.yodacdn.net/mtvaz/index.m3u8
-
+http
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 
@@ -32,21 +33,150 @@ http://str.yodacdn.net/real/index.m3u8
 http://str.yodacdn.net/arb24/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png", Kanal S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png", GünAz TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/a/af/M%C9%99d%C9%99niyy%C9%99t_TV_loqo.png", Mədəniyyət TV
+http://str.yodacdn.net/medeniyyettele/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png", Baku TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/54Jx3HE.png", AzStar 
+http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/50Yr6P5.png", APA TV
+http://str2.yodacdn.net/apatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ydpwRny.png", Gence tv
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
+https://str.yodacdn.net/qafkaz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
+http://str.yodacdn.net/ntv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
+https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ayaztv.com/logo/logo-h.png", Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png", CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LfmZXmD/dman-TV-logo.png", İdman TV
+http://str.yodacdn.net/idmantele/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png", ulduz tv
+https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iS2BrPX.png", ATV Cinema AZ
+http://b01b428d.ottrast.com/iptv/BV9CFPLGD3HF59ZYTKRVLE97/2120/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WMEFrpM.png", İsmayıllı TV
+https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30092020/banners/39200-5f7458a8148e8.png", Alvin Ovcu TV
+http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png", Alvin music Tv
+https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
+https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png", AZfilim tv
+https://catcast.ismailturret.workers.dev/azfilim.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wGwDzcL.png", AZ Music HD
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/ARB_G%C3%BCn%C9%99%C5%9F_logo.png", ARB Güneş
+https://str.yodacdn.net/arbgunesh/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png", Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1DrHMD.png", Könül music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsRz4Mfp/In-Shot-20251027-110432000.png", TMB TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
+http://146.59.93.251/11452/index.m3u8?token=B0CD410F7837
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hU0AnaL.png", ses tv
+http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0l5Gba.png", Rihat TV
+https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BjxGLj7.png", Rihat TV music
+https://catcast.ismailturret.workers.dev/rihattv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w0Km2FQ.png", Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png", Könül TV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1DrHMD.png", Könül music
+https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kVrjpZe.png", AZ HD 7/24
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.katv1.az/images/tild3338-3366-4562-a266-373739346130__katv1-logo1000.png", KATV1 AZ
+http://qe7abbli.megatv.fun/iptv/PTW747LBU3TCMM/16042/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QrvfpL0/In-Shot-20250516-082658023.png", TV 1
+https://telecast.srthub.net/hls/20850e6a-19a8-df31-6690-7e8af2cdf531/streams/v3/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png", TRT çocukᵀᴿ
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1ᵀᴿ
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MWGr1rn/In-Shot-20260209-105343609.png", ulduz tv
-https://catcast.ismailturret.workers.dev/ulduz-tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iS2BrPX.png", ATV Cinema AZ
-http://b01b428d.ottrast.com/iptv/BV9CFPLGD3HF59ZYTKRVLE97/2120/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKs7Bhx.png", Show plus tv
 https://rtmp.showplus.tv/hls/myshow.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCk0rqi.png", begen tvᵀᴿ
@@ -69,27 +199,8 @@ https://catcast.ismailturret.workers.dev/50498.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ryx0CpQp/In-Shot-20251006-213447729.png", KuzeyMaxᵀᴿ
 http://75.119.144.48:80/KUZEYMAXHD_STREAM/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydpwRny.png", Gence tv
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png", CBC Sport
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/50Yr6P5.png", APA TV
-http://str2.yodacdn.net/apatv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U3IjbqP.png",  ISVIÇRE TVᵀᴿ
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
-https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d07HQv94/EL-TV-2020.png", EL TV
-https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
 https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
@@ -97,26 +208,11 @@ https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png", GünAz TV
-https://tv.gunaz.tv/hls/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
 http://str2.yodacdn.net/kanal35/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png", Kanal S
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkgvYQ7P/K-p-z-TV-2019.png", Kepez TV
-http://85.132.78.122:8050/dashjs/stream/index.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
-https://str.yodacdn.net/qafkaz/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z92tSK0.png", KN music box
 https://cdn4.yayin.com.tr/kntv/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wGwDzcL.png", AZ Music HD
-https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4xYGZ7SD/In-Shot-20251113-210612919.png", Sirius
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
@@ -124,51 +220,14 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
-http://str.yodacdn.net/ntv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjChc8vs/logo-31.png", Deniz posdasıᵀᴿ
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.ayaztv.com/logo/logo-h.png", Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WMEFrpM.png", İsmayıllı TV
-https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsRz4Mfp/In-Shot-20251027-110432000.png", TMB TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w0Km2FQ.png", Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyZQ0k2w/In-Shot-20250209-204537485.png", Könül TV
-http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k1DrHMD.png", Könül music
-https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/54Jx3HE.png", AzStar 
-http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png", Baku TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SKTndbFF/In-Shot-20250209-203240269.png", FTV HD
 https://stream.ftv.az/live/ftv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKqeMvf.png", Retro TV
-http://146.59.93.251/11452/index.m3u8?token=B0CD410F7837
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hU0AnaL.png", ses tv
-http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0l5Gba.png", Rihat TV
-https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BjxGLj7.png", Rihat TV music
-https://catcast.ismailturret.workers.dev/rihattv.m3u8
 
 #EXTINF:-1 tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png", SINEMA TVᵀᴿ
 https://65.108.239.207/sinema/index.m3u8
@@ -181,21 +240,3 @@ https://65.108.239.207/sinemaaile/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5qn3w5s/Cartoon-Network-2010-logo-svg.png",  CARTOON NETWORK HDᵀᴿ
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/30092020/banners/39200-5f7458a8148e8.png", Alvin Ovcu TV
-http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png", Alvin music Tv
-https://catcast.ismailturret.workers.dev/alvinmusic.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
