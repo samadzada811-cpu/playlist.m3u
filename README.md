@@ -1,1 +1,11 @@
 # playlist.m3u
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="logo_link", AzTV
+http://str.yodacdn.net/azertv/index.m3u8
+
+#EXTINF:-1 tvg-logo="logo_link", İctimai TV
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 tvg-logo="logo_link", Space TV
+https://str.yodacdn.net/space/index.m3u8
