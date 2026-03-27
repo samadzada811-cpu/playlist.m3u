@@ -32,8 +32,6 @@ http://85.132.78.122:8050/dashjs/stream/index.mpd
 http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/50Yr6P5.png", APA TV
 http://str2.yodacdn.net/apatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydpwRny.png", Gence tv
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1ganjatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 https://str.yodacdn.net/qafkaz/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2", Naxçıvan TV
