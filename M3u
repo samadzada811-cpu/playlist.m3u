@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png", ATV
 https://str.yodacdn.net/atv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3t3k5Mc.png", Xəzər TV
-https://str.yodacdn.net/xazartv/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png", Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png", Real TV
