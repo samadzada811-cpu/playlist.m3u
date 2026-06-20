@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KcNLCBD5/Real-TV-Azerbaijan-Logo.png", Real TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/real-tv.m3u8 
 #EXTINF:-1 tvg-logo="https://mail.arb24.az/assets/uploads/sites/logo_arb24.png", ARB 24
-http://str.yodacdn.net/arb24/index.m3u8
+http://149.255.152.218/channels.aspx?channel=arb24.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cCPh2BsY/Kanal-S-2022.png", Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCbpbW00/Gunaz-tv-svg.png", GünAz TV
