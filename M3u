@@ -5,7 +5,7 @@ https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c1Qrztms/In-Shot-20251103-071346014.png", Space TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8cBDyLJJ/In-Shot-20250209-204416916.png", MTV Azerbaijan
-http://str.yodacdn.net/mtvaz/index.m3u8
+http://flussonic.izone.az:80/muztvaz/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1YxKZSh/785cfca9083712aedfed84b91a0f00e8.png", ATV
