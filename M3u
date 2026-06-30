@@ -148,6 +148,8 @@ https://65.108.239.207/sinemaaile/index.m3u8
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48943
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/9/9a/ARB_Media_Qrup.png", ARB TV
 https://str.yodacdn.net/arb/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/5/5d/D%C3%BCnya_TV_%282019-h.h.%29.png", Dunya TV
+http://flussonic.izone.az:80/dunyatv/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr@SD",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="24TV.tr@SD",24 TV (1080p)
