@@ -633,3 +633,5 @@ https://live.artidijitalmedya.com/artidijital_vizyon58/vizyon58/playlist.m3u8
 https://embedlp.becdn.net/womantv.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1,Победа
+http://178.217.72.66:8080/pobeda/index.m3u8
