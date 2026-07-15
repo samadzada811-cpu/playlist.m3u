@@ -637,3 +637,5 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 https://smotret.tv/razvlekatelnye/pobeda/m3u8
 #EXTINF:-1type="stream" channelId="168", Индийское кино
 http://flussonic.izone.az:80/indiskoekino/index.m3u8
+#EXTINF:-1,Zee TV
+http://41.205.77.102/ZEE-TV/index.m3u8
